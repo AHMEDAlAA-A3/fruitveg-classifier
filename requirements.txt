@@ -1,21 +1,9 @@
-<<<<<<< HEAD
 streamlit
 tensorflow
 keras
+pillow
 numpy
 pandas
-matplotlib
-pillow
-requests
 beautifulsoup4
-=======
-streamlit
-tensorflow
-keras
-numpy
-pandas
-matplotlib
-pillow
 requests
-beautifulsoup4
->>>>>>> fa2ce62 (Fixed path issue)
+matplotlib
